@@ -24,28 +24,28 @@ Simular um cenário real de negócio onde dados brutos são transformados em inf
 
 ---
 
-## 🔄 Pipeline de Dados (ETL)
+## Pipeline de Dados (ETL)
 
-### 📥 Extração
+### Extração
 
 * Leitura de dados de vendas a partir de arquivo CSV
 * Tratamento de encoding (latin1)
 
-### 🔧 Transformação
+### Transformação
 
 * Limpeza de dados (remoção de nulos)
 * Conversão de datas
 * Criação de métricas (Revenue)
 * Criação de coluna temporal (Month)
 
-### 💾 Carga
+### Carga
 
 * Armazenamento em banco SQLite
 * Criação da tabela `sales`
 
 ---
 
-## 📊 Análises Realizadas
+## Análises Realizadas
 
 * Faturamento por mês
 * Receita por categoria
@@ -54,9 +54,9 @@ Simular um cenário real de negócio onde dados brutos são transformados em inf
 
 ---
 
-## 🧠 Insights de Negócio
+## Insights de Negócio
 
-### 📈 Sazonalidade de Vendas
+### Sazonalidade de Vendas
 
 Foi identificado aumento significativo no faturamento nos meses de novembro e dezembro, indicando forte influência de sazonalidade (ex: Black Friday e fim de ano).
 
@@ -65,7 +65,7 @@ Aumentar investimentos em marketing e estoque nesses períodos para maximizar re
 
 ---
 
-### 🏷️ Categoria com Maior Receita
+### Categoria com Maior Receita
 
 A categoria **Technology** apresenta o maior volume de faturamento.
 
@@ -74,7 +74,7 @@ Priorizar estratégias comerciais e expansão de portfólio nessa categoria.
 
 ---
 
-### 🏆 Concentração de Receita
+### Concentração de Receita
 
 Uma pequena quantidade de produtos representa grande parte do faturamento total.
 
@@ -86,7 +86,7 @@ Uma pequena quantidade de produtos representa grande parte do faturamento total.
 
 ---
 
-## 📈 Dashboard
+## Dashboard
 
 O dashboard está em desenvolvimento e será disponibilizado em breve.
 
@@ -100,7 +100,7 @@ Enquanto isso, as análises exploratórias podem ser visualizadas no notebook.
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clonar o repositório
 
@@ -139,7 +139,7 @@ notebooks/analysis.ipynb
 
 ---
 
-## 💡 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto foram enfrentados desafios reais de dados, como:
 
@@ -150,7 +150,7 @@ Durante o desenvolvimento deste projeto foram enfrentados desafios reais de dado
 
 ---
 
-## 📌 Próximos Passos
+## Próximos Passos
 
 * Adicionar análise de margem de lucro
 * Criar dashboard interativo online
@@ -159,10 +159,10 @@ Durante o desenvolvimento deste projeto foram enfrentados desafios reais de dado
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 Débora Berg
-🔗 LinkedIn: [www.linkedin.com/in/debora-berg-2301991b7](http://www.linkedin.com/in/debora-berg-2301991b7)
-💻 GitHub: https://github.com/debora-berg
+ LinkedIn: [www.linkedin.com/in/debora-berg-2301991b7](http://www.linkedin.com/in/debora-berg-2301991b7)
+ GitHub: https://github.com/debora-berg
 
 ---
